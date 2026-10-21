@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1
+
+- README 顶部接入 whale-star README 应援图服务（按 Star 数自动升档），并同步到 npm 包页面。
+
 ## 2.0.0
 
 - 新增「点击通知跳回对应会话」：Toast 通过 `dshfocus://` 协议启动 `launcher.ps1`，Host 记录待跳转请求，Client 半边轮询后调用 `uiWorkspace.openSession()`。
