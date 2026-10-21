@@ -46,6 +46,12 @@
     "node": ">=20",
     "dsh": ">=0.2.1-rc.1 <0.3.0"
   },
+  "scripts": {
+    "test": "node test/smoke.mjs"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yschdxm/dsh-windows-notify.git"
