@@ -1,14 +1,22 @@
+<div align="center">
+
 # dsh-windows-notify
 
-[![whale-star](https://img.shields.io/badge/whale--star-visit-4f8cff?style=flat-square)](https://whale-star.whale-star.workers.dev/)
 [![npm version](https://img.shields.io/npm/v/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
 [![npm downloads](https://img.shields.io/npm/dm/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
 [![DSH](https://img.shields.io/badge/DSH-0.2.1--rc.2-4f8cff?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
-**Windows 原生通知插件 + 点击跳回对应会话。** 会话任务结束、需要你确认/回答、需要重新登录、会话出错时发一条 Windows Toast；**点击通知会聚焦 DeepSeek Harness（桌面版或浏览器标签页）并直接跳到那条会话**。
+<a href="https://github.com/yschdxm/dsh-windows-notify">
+  <img src="https://whale-star.whale-star.workers.dev/?repo=yschdxm/dsh-windows-notify" alt="给个 Star 吧～" width="720">
+</a>
 
-> 相关站点：[whale-star.whale-star.workers.dev](https://whale-star.whale-star.workers.dev/)
+> 🐳 顶部应援图来自 **[whale-star](https://github.com/yschdxm/whale-star)**——
+> 按 GitHub Star 数自动升档的大肥鱼 README 应援图服务。
+
+</div>
+
+**Windows 原生通知插件 + 点击跳回对应会话。** 会话任务结束、需要你确认/回答、需要重新登录、会话出错时发一条 Windows Toast；**点击通知会聚焦 DeepSeek Harness（桌面版或浏览器标签页）并直接跳到那条会话**。
 
 ## 为什么点击能定位会话
 
