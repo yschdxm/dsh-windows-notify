@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Windows Notifications",
+    "description": "Native Windows notifications for finished turns, approvals, questions, and sign-in; clicking a toast focuses the app and jumps to that conversation."
+  }
+}

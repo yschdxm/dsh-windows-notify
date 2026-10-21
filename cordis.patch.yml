@@ -1,0 +1,12 @@
+# dsh-windows-notify bundle patch: one Loader row.
+#
+# The row's defaults live in index.js. Override them from a later patch layer
+# (the user's cordis.patch.yml) when needed, for example:
+#
+#   - id: dsh-windows-notify
+#     config:
+#       notifySubagentTurns: true
+#       silent: true
+- insert:
+    - id: dsh-windows-notify
+      name: '@yschdxm/dsh-windows-notify'
