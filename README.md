@@ -1,6 +1,8 @@
 # dsh-windows-notify
 
 [![whale-star](https://img.shields.io/badge/whale--star-visit-4f8cff?style=flat-square)](https://whale-star.whale-star.workers.dev/)
+[![npm version](https://img.shields.io/npm/v/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
+[![npm downloads](https://img.shields.io/npm/dm/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
 [![DSH](https://img.shields.io/badge/DSH-0.2.1--rc.2-4f8cff?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
@@ -44,8 +46,11 @@ Toast 点击
 插件是标准的 DSH bundle（`dsh.bundle.patch`），包内同时有 Host 半边和 Client 半边（`dsh.client`）。
 
 ```powershell
+# 方式零（推荐）：从 npm 官方源安装
+dsh plugin --profile <profile> add @yschdxm/dsh-windows-notify
+
 # 方式一：Plugin Manager（GUI）→ 安装 bundle → 选择仓库目录
-# 方式二：命令行（把 <profile> 换成 desktop）
+# 方式二：命令行从 GitHub 安装
 dsh plugin --profile <profile> add github:yschdxm/dsh-windows-notify
 
 # 本地开发（link 安装）
