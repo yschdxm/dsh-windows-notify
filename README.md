@@ -7,7 +7,7 @@
 [![DSH](https://img.shields.io/badge/DSH-0.2.1--rc.2-4f8cff?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
-<a href="https://github.com/yschdxm/dsh-windows-notify">
+<a href="https://whale-star.whale-star.workers.dev/">
   <img src="https://whale-star.whale-star.workers.dev/?repo=yschdxm/dsh-windows-notify" alt="给个 Star 吧～" width="720">
 </a>
 
