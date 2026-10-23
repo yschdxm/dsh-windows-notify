@@ -4,6 +4,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
 [![npm downloads](https://img.shields.io/npm/dm/@yschdxm/dsh-windows-notify.svg?style=flat-square)](https://www.npmjs.com/package/@yschdxm/dsh-windows-notify)
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%AF%B7%E6%88%91%E5%96%9D%E6%9D%AF%E5%A5%B6%E8%8C%B6-7e5fd9?logo=afdian&logoColor=white)](https://ifdian.net/a/yschdxm)
 [![DSH](https://img.shields.io/badge/DSH-0.2.1--rc.2-4f8cff?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
@@ -128,6 +129,22 @@ node --check format.js
 node --check client.js
 node test/smoke.mjs     # 假 ctx + 假 webServer，打 3 条真实 Toast，验证路由/监听器/文案
 ```
+
+## 💝 支持开发
+
+本插件完全免费、开源。如果它帮你省下了守任务的时间，欢迎通过下面任意一种方式请作者喝杯咖啡——你的每一份支持都会化作后续的功能更新与问题修复：
+
+<div align="center">
+
+<a href="https://ifdian.net/a/yschdxm"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="在爱发电支持我"></a>
+
+| 支付宝 | 微信支付 |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/yschdxm/dsh-windows-notify/main/.github/assets/alipay.png" alt="支付宝收款码" height="340"> | <img src="https://raw.githubusercontent.com/yschdxm/dsh-windows-notify/main/.github/assets/wechat-pay.png" alt="微信支付收款码" height="340"> |
+
+*不方便扫码？也欢迎在 [爱发电](https://ifdian.net/a/yschdxm) 上支持，那里可以留下你想看的功能需求。*
+
+</div>
 
 ## 图标许可
 
