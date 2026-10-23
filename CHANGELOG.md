@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.2
+
+- README 新增「支持开发」：爱发电入口与支付宝/微信收款码，与 renpy-translator 保持一致。
+
 ## 2.0.1
 
 - README 顶部接入 whale-star README 应援图服务（按 Star 数自动升档），并同步到 npm 包页面。

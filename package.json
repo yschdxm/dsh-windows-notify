@@ -1,6 +1,6 @@
 {
   "name": "@yschdxm/dsh-windows-notify",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Native Windows toast notifications for DeepSeek Harness: task completion, approval, questions, sign-in; click a toast to focus the app and jump back to that conversation.",
   "type": "module",
   "license": "MIT",
